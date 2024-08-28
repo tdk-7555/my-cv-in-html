@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+    color: rgb(27, 24, 84);
+    font-family: "Corbel (Headings)", sans-serif;
+    font-size: 50px;
+    
+}
+
+h4{
+    color: rgb(76, 69, 214);
+    font-family: "Calibri", sans-serif;
+    
+}
+
+p{
+    font-family: "Calibri", sans-serif;
+    color: brown;
+    
+}
+li{
+    font-family: "Calibri", sans-serif;
+    color: brown;
+    
+}
+
+#name-name{
+    background-color: yellow;
+    padding: 10px 5px;
+    border-width: 2px;
+    border-color: black;
+    border-style: dashed;
+}
+
+#li-logo{
+    width: 50px;
+    
+}
+#phone-pic{
+    width: 20px;
+    
+}
+#house-pic{
+    width: 30px;
+    
+}
+#email-pic{
+    width: 20px;
+    
+}
+
+#shoot-cali {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+  }
